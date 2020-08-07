@@ -1,0 +1,14 @@
+{
+  "blogposts": [
+    {
+      "id": 1,
+      "title": "Peaky Blinders",
+      "content": "Sangue, apostas e navalhas"
+    },
+    {
+      "title": "No content :)",
+      "content": "No title yet",
+      "id": 2
+    }
+  ]
+}
